@@ -7,4 +7,5 @@ https://toobajamal.medium.com/intrusion-detection-in-kdd99-dataset-using-machine
 https://www.geeksforgeeks.org/nlp/detecting-spam-emails-using-tensorflow-in-python/
 # Malware analysis:
 https://medium.com/analytics-vidhya/cnn-based-malware-detection-python-and-tensorflow-717f8de84ee
+
 https://medium.com/@brsdncr/malicious-document-analysis-ii-12b1e697457e
